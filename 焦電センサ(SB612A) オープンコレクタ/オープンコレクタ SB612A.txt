@@ -1,0 +1,40 @@
+/************************************************************
+************************************************************/
+■オープンコレクタ
+	https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF
+	
+■製品の原理 用語解説｜電気回路｜NPN/PNPオープンコレクタ出力
+	https://www.hokuyo-aut.co.jp/products/data.php?id=121#:~:text=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E5%87%BA%E5%8A%9B%E3%81%A8%E3%81%AF,%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82
+
+■オープンコレクタってなに？
+	http://denshikit.main.jp/topf/technology35.html
+
+■【FAセンサ用語】オープンコレクタとは
+	https://www.metrol.co.jp/blog/2010/08/06/3565/
+
+
+/************************************************************
+SB612A
+************************************************************/
+■調整方法を教えてください。
+	https://akizukidenshi.com/catalog/faq/goodsfaq.aspx?goods=M-08767
+	
+	contents
+		VRの調整は、下記の通りにおこなってください。
+		・感度調整[SENS]VR：遠くまで検知させる場合には、時計方向に回します。
+		・検知出力保持時間[DELAY TIME]VR：保持時間を短かくする場合には、時計方向に回します。
+		・明るさ検知設定[DARK ADJ]VR：明るいところで検知させる場合には、時計方向に回します。
+
+■使い方 : 共立
+	http://www.kyohritsu.jp/eclib/PROD/MANUAL/kpir612.pdf
+
+■秋月パーツ、焦電型赤外線センサーSB612A
+	https://sfukuda.at.webry.info/201504/article_7.html
+
+■秋月電子の焦電型赤外線センサユニット(SE-10)を使う
+	https://n.mtng.org/ele/arduino/tutorial022.html
+	
+■SB612Aという焦電型赤外線センサモジュールがうまく使えません
+	https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10162199750
+
+
